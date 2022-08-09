@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sven</h1>
-<h3 align="center">I am passionate about computers and video games</h3>
+<h3 align="center">I am passionate about IT</h3>
 
 - 🔭 I’m currently working at **S.I.B**
 
