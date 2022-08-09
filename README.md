@@ -41,3 +41,9 @@
 <p align="center">
     <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athsven&show_icons=true&locale=en&layout=compact" alt="athsven" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athsven&show_icons=true&locale=en" alt="athsven" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athsven&" alt="athsven" /></p>
